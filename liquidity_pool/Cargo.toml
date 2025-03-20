@@ -1,0 +1,5 @@
+[workspace]
+members = ["programs/liquidity_pool"]
+
+[profile.release]
+overflow-checks = true
